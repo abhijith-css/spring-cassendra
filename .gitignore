@@ -1,0 +1,19 @@
+# Ignore compiled class files
+*.class
+
+# Ignore Eclipse project metadata
+.project
+.classpath
+.settings/
+
+# Ignore build output directories (Maven and standard Eclipse)
+bin/
+target/
+
+# Ignore log files
+*.log
+
+# Ignore any temporary files created by the OS
+Thumbs.db
+.DS_Store
+/.factorypath
